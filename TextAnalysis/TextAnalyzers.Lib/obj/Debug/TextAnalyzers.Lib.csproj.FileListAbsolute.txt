@@ -1,0 +1,6 @@
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\TextAnalysis\TextAnalysis\TextAnalyzers.Lib\bin\Debug\TextAnalyzers.Lib.dll
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\TextAnalysis\TextAnalysis\TextAnalyzers.Lib\bin\Debug\TextAnalyzers.Lib.pdb
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\TextAnalysis\TextAnalysis\TextAnalyzers.Lib\obj\Debug\TextAnalyzers.Lib.csprojAssemblyReference.cache
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\TextAnalysis\TextAnalysis\TextAnalyzers.Lib\obj\Debug\TextAnalyzers.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\TextAnalysis\TextAnalysis\TextAnalyzers.Lib\obj\Debug\TextAnalyzers.Lib.dll
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\TextAnalysis\TextAnalysis\TextAnalyzers.Lib\obj\Debug\TextAnalyzers.Lib.pdb

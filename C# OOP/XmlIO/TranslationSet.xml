@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TranslationSet>
+	<Translations language="English">
+		<Word>Yes</Word>
+		<Word>No</Word>
+	</Translations>
+	<Translations language="French">
+		<Word>Oui</Word>
+		<Word>Non</Word>
+	</Translations>
+	<Translations language="German">
+		<Word>Ja</Word>
+		<Word>Nein</Word>
+	</Translations>
+	<Translations language="Russian">
+		<Word>да</Word>
+		<Word>нет</Word>
+	</Translations>
+</TranslationSet>

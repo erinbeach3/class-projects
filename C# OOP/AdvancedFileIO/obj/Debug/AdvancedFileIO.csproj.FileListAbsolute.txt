@@ -1,0 +1,13 @@
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\bin\Debug\Scripts.zip
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\bin\Debug\AdvancedFileIO.exe.config
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\bin\Debug\AdvancedFileIO.exe
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\bin\Debug\AdvancedFileIO.pdb
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\bin\Debug\SpreadsheetLight.dll
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\bin\Debug\SpreadsheetLight.xml
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\obj\Debug\AdvancedFileIO.csprojAssemblyReference.cache
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\obj\Debug\AdvancedFileIO.csproj.CoreCompileInputs.cache
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\obj\Debug\AdvancedFileIO.csproj.CopyComplete
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\obj\Debug\AdvancedFileIO.exe
+C:\Users\ssheb\OneDrive\Desktop\ASM03 .Net\02- .Net\.Net Resources Code\C# OOP\C# OOP\AdvancedFileIO\obj\Debug\AdvancedFileIO.pdb
